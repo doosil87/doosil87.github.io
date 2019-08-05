@@ -54,6 +54,12 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
+  - cat: PostgreSQL
+    desc: "PostgresSQL Information"
+
+  - cat: Linux
+    desc: "Linux Information"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
