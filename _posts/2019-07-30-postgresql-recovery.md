@@ -3,7 +3,7 @@ layout: post
 title: PostgreSQL Recovery
 author: Chiha Park
 date: '2019-07-30 00:00:00 +0530'
-category: PostgreSQL
+categories: PostgreSQL
 summary: PostgreSQL
 thumbnail: posts/postgresql.jpg
 tag_name: PostgreSQL
