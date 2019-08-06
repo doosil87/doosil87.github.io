@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Raw Device와 File System
-author: Chiha Park
+author: Doosil
 date: '2019-07-30 00:00:00 +0530'
-categories: Linux 
+category: Linux 
 summary: Raw Device와 File System
 thumbnail: posts/linux.jpg
 tag_name: Linux

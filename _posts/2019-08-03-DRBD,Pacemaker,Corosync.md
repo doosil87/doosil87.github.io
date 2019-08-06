@@ -3,7 +3,7 @@ layout: post
 title: DRBD, Pacemaker, Corosync를 이용한 PostgreSQL HA 구성
 author: Doosil
 date: '2019-08-02 00:00:00 +0530'
-category: DB_HA
+category: Database HA
 summary: PostgreSQL HA
 thumbnail: /assets/img/posts/drbdlogo.png
 tag_name: PostgreSQL HA
